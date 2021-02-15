@@ -9,9 +9,11 @@ body {
     background-color: white;
 }
 #footer {
-    height: 30px;
+
+    height: 50px;
     border-top: gray;
-    background-color: lightcoral;
+    background-color: indianred;
+
 }
 h2 {
     border-bottom: 1px solid #a0b0a0; 
